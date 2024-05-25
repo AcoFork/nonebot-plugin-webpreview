@@ -12,7 +12,9 @@ webpreview是一个适用于NoneBot的网页预览插件，使用pyppeteer调用
    CHROME_PATH = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
    ```
  - 插件第一次载入时，可能会报错`no module named pyppeteer`，请在你的NoneBot环境（大部分情况是虚拟环境）执行
-   ```pip install pyppeteer```
+   ```
+   pip install pyppeteer
+   ```
  - 直接发送带`HTTP` `HTTPS`的链接即可预览图片，如图
 
 ## 例图
