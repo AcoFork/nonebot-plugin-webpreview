@@ -1,0 +1,2 @@
+# nonebot-plugin-webpreview
+webpreview是一个适用于NoneBot的网页预览插件，使用pyppeteer调用本地的Chrome进行网页预览截图发送。所有代码均使用GPT构建
