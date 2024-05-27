@@ -21,5 +21,8 @@ webpreview是一个适用于NoneBot的网页预览插件，使用playwright进�
 
  - 直接发送带`HTTP` `HTTPS`的链接即可预览图片，如图
 
+## WARNING
+v0.3.0以下的版本使用老核心，需要自行配置，不建议使用。此README.md仅适用于最新版本的安装/使用教程
+
 ## 例图
 ![例图](eg.png)
