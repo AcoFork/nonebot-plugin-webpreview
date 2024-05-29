@@ -2,7 +2,7 @@
 webpreview是一个适用于NoneBot的网页预览插件，使用playwright进行网页预览截图发送。所有代码均使用GPT构建
 
 ## 安装教程
- - 前往最新的Release，下载`webpreview.xxx.py`文件
+ - 前往最新的Release，下载`webpreview.py`文件
  - 将下载的 `webpreview.xxx.py` 放入你的NoneBot的`plugins`文件夹即可
    
 ## 使用教程
